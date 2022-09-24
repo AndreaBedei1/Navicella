@@ -1,0 +1,12 @@
+Z:\Informatica\2017-12-02\Guerra_Galattica\Guerra_Galattica\bin\Debug\Guerra_Galattica.exe.config
+Z:\Informatica\2017-12-02\Guerra_Galattica\Guerra_Galattica\bin\Debug\Guerra_Galattica.exe
+Z:\Informatica\2017-12-02\Guerra_Galattica\Guerra_Galattica\bin\Debug\Guerra_Galattica.pdb
+Z:\Informatica\2017-12-02\Guerra_Galattica\Guerra_Galattica\obj\Debug\Guerra_Galattica.csprojResolveAssemblyReference.cache
+Z:\Informatica\2017-12-02\Guerra_Galattica\Guerra_Galattica\obj\Debug\Guerra_Galattica.exe
+Z:\Informatica\2017-12-02\Guerra_Galattica\Guerra_Galattica\obj\Debug\Guerra_Galattica.pdb
+Z:\Informatica\2017-12-02_Bedei\Guerra_Galattica\Guerra_Galattica\bin\Debug\Guerra_Galattica.exe.config
+Z:\Informatica\2017-12-02_Bedei\Guerra_Galattica\Guerra_Galattica\bin\Debug\Guerra_Galattica.exe
+Z:\Informatica\2017-12-02_Bedei\Guerra_Galattica\Guerra_Galattica\bin\Debug\Guerra_Galattica.pdb
+Z:\Informatica\2017-12-02_Bedei\Guerra_Galattica\Guerra_Galattica\obj\Debug\Guerra_Galattica.csprojResolveAssemblyReference.cache
+Z:\Informatica\2017-12-02_Bedei\Guerra_Galattica\Guerra_Galattica\obj\Debug\Guerra_Galattica.exe
+Z:\Informatica\2017-12-02_Bedei\Guerra_Galattica\Guerra_Galattica\obj\Debug\Guerra_Galattica.pdb
